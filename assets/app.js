@@ -1,4 +1,9 @@
 import './bootstrap.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './vendor/bootstrap/dist/bootstrap.bundle.min.js';
+import './js/color-modes.js';
+import './js/wow.js';
+
 /*
  * Welcome to your app's main JavaScript file!
  *
@@ -6,5 +11,7 @@ import './bootstrap.js';
  * which should already be in your base.html.twig.
  */
 import './styles/app.css';
+import './styles/carousel.css';
+import './styles/animate.css';
 
 console.log('This log comes from assets/app.js - welcome to AssetMapper! 🎉');
