@@ -5,7 +5,7 @@ ux_icons:
   # Default attributes to add to all icons.
   default_icon_attributes:
     # Default:
-    fill: currentColor
+    fill: 'red'
 
   # Configuration for the "on demand" icons powered by Iconify.design.
   iconify:

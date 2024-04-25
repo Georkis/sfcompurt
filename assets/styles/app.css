@@ -1,3 +1,7 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -140,4 +144,34 @@
 .navbar-nav .nav-item:hover{
     background: #0a53be;
     color: #FFF !important;
+}
+
+/* Form Contact */
+.info-box{
+    min-height: 180px;
+    color: #525252;
+    text-align: center;
+    box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+    padding: 20px 0 30px 0;
+    background: #fff;
+}
+
+.info-box h3 p{
+    color: #999;
+}
+
+.bg-gray-light{
+    background: #d3d2d2;
+}
+
+.contact h3 p{
+    color: #9a9a9a;
+}
+
+/* Size */
+.w-15{
+    width: 15%;
+}
+.h-15{
+    height: 15%;
 }
